@@ -1,0 +1,11 @@
+#section_206_12{
+background-color:transparent ;
+padding-top:100px !important;
+}
+#section_166_widget_425 h1{
+color:#ffffff;
+}
+@media (max-width: 767px) {
+#section_206_12{
+padding-top:50px !important;
+}}

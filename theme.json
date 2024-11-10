@@ -1,0 +1,9 @@
+{
+    "name": "Default",
+    "location": "default",
+    "namespace": "Theme\\Default\\",
+    "version": "1.0",
+    "author": "Themelooks",
+    "url": "http://www.themelooks.com/",
+    "description": "Default theme of tl-commerce"
+}

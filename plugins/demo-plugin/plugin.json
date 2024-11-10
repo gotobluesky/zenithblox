@@ -1,0 +1,11 @@
+{
+    "name": "Demo Plugin",
+    "location": "demo-plugin",
+    "namespace": "Plugin\\DemoPlugin\\",
+    "version": "1.0",
+    "author": "Themelooks",
+    "url": "http://www.themelooks.com/",
+    "description": "Demo Plugin for CMSLooks",
+    "license" : false,
+    "license_api": ""
+}
